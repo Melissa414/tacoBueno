@@ -1,4 +1,9 @@
 
+  .searchBar {
+    padding-left: 200px;
+    padding-right: 200px;
+  }
+
 /*sticky footer*/
   body {
     display: flex;
@@ -14,5 +19,8 @@
     bottom: 0;
     left: 0;
     width: 100%;
-}
+    position: fixed;
+    display: inline;
+  }
+/*sticky footer*/
 
